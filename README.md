@@ -28,8 +28,9 @@ git clone https://github.com/CarlosESoares/cadpro-php-system
 Configure o banco de dados
 Execute em um servidor local (XAMPP, WAMP ou similar)
 📸 Demonstração
+<img width="589" height="836" alt="image" src="https://github.com/user-attachments/assets/44e1635d-0b72-4b01-8e51-5e72309ed56d" />
 
-(Coloque prints do sistema aqui)
+<img width="1912" height="912" alt="image" src="https://github.com/user-attachments/assets/9a120663-cb58-47da-81b1-514e6c5908e4" />
 
 📌 Autor
 
